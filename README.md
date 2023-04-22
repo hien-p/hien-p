@@ -5,10 +5,7 @@ My name is hien and I am a student studying Computer Science at TDTU.
 ## 🔧 Skills & Tools
 Here are some of the languages, tools, and technologies I have experience with:
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java Logo" width="60" height="60"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C Logo" width="60" height="60"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python Logo" width="60" height="60"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react Logo" width="60" height="60"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java Logo" width="60" height="60"/><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C Logo" width="60" height="60"/><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python Logo" width="60" height="60"/><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react Logo" width="60" height="60"/>
 
 ## 🌱 Currently Learning
 
