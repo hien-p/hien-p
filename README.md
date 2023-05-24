@@ -20,9 +20,8 @@ I am currently expanding my skills in the following areas:
 
 I have participated in several hackathons, including:
 - The runner-up of Oraichain Hackathon 2023: [PATÉ - OPTIMIZING IMAGES FOR CASUAL RESTAURANTS](https://hackathon.orai.io/library/64632baf5f9bcdcca831e62c/) 
-- Upyouth(https://drive.google.com/file/d/14pMH5bkqkFryjkJGglyVBBwOhqMGz9ot/view)
+- Hackyouth 2023 of Upyouth: [Crowdfunding platform project](https://drive.google.com/file/d/14pMH5bkqkFryjkJGglyVBBwOhqMGz9ot/view)
  
-
 ## 📫 Contact Me
 
 Feel free to reach out to me through the following channels:
