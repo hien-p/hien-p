@@ -19,8 +19,9 @@ I am currently expanding my skills in the following areas:
 ## 💻 Hackathon Experience
 
 I have participated in several hackathons, including:
+- The runner-up of Oraichain Hackathon 2023: [PATÉ - OPTIMIZING IMAGES FOR CASUAL RESTAURANTS](https://hackathon.orai.io/library/64632baf5f9bcdcca831e62c/) 
 - Upyouth(https://drive.google.com/file/d/14pMH5bkqkFryjkJGglyVBBwOhqMGz9ot/view)
-- Oraichain Labs Hackathon 2023: In progress 
+ 
 
 ## 📫 Contact Me
 
