@@ -1,5 +1,5 @@
 
-SUI Developer | LLM Developer | Founder of Weminal labs
+SUI Developer | LLM Developer | Founder of [Weminal labs](https://github.com/orgs/Weminal-labs)
 
 
 ## 📫 Contact Me
