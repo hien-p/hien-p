@@ -1,12 +1,12 @@
 
-SUI Developer | LLM Developer | Founder of [Weminal labs](https://github.com/orgs/Weminal-labs)
+Smart contract Developer | Founder of [Weminal labs](https://github.com/orgs/Weminal-labs)
 
 
 ## 📫 Contact Me
 Feel free to reach out to me through the following channels:
 - Email: [phanhoangvinhhien@gmail.com](mailto:phanhoangvinhhien@gmail.com)
 - LinkedIn: [https://www.linkedin.com/in/hien-phan-a89674193/](https://www.linkedin.com/in/hien-phan-a89674193/)
-- Facebook: [https://www.facebook.com/hienphan0622/](https://www.facebook.com/hienphan0622/)
+- Facebook: [https://www.facebook.com/hienphan0622/](https://www.facebook.com/hienphan0611/)
 
 
 
